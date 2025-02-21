@@ -5,8 +5,8 @@
 To get started, clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/yourusername/emulators.git
-cd emulators/code
+git clone https://github.com/OWAIS-KHAWAJA-789/genymotion_c2.git
+cd genymotion_c2/
 ```
 
 
